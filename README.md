@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- ==================== ANIMATED HEADER WAVE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,25:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Harish%20Peddapelly%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20'26%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20Python%20%26%20React.js&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,25:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Harish%20Peddapelly&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Web%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20CSE%20'26&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
 
   <!-- ==================== DYNAMIC MULTI-LINE TYPING SVG ANIMATION ==================== -->
   <a href="https://github.com/harish-0987">
@@ -13,11 +13,11 @@
   <!-- ==================== ⚡ RECRUITER 1-CLICK ACTIONS ==================== -->
   <p align="center">
     <a href="https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf" target="_blank">
-      <img src="https://img.shields.io/badge/📄_View_/_Download_Resume-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
+      <img src="https://img.shields.io/badge/%F0%9F%93%84_View_/_Download_Resume-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
     </a>
     &nbsp;
     <a href="https://harishportfolio12.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
     </a>
     &nbsp;
     <a href="https://linkedin.com/in/harishpeddapally" target="_blank">
@@ -27,11 +27,11 @@
 
   <p align="center">
     <a href="mailto:peddapellyharish@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Email-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="tel:+917993871365">
-      <img src="https://img.shields.io/badge/📞_Call_/_WhatsApp-+91_7993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+      <img src="https://img.shields.io/badge/%F0%9F%93%9E_Call_/_WhatsApp-+91_7993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=harish-0987&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
@@ -167,22 +167,10 @@ B.Tech Computer Science & Engineering graduate (2026) with hands-on experience b
 
 ---
 
-### 📈 Interactive Activity Graph (Tokyo Night Animation)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harish-0987&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=2563eb&area=true" width="100%" alt="Harish's Activity Graph" />
-</div>
-
----
-
 ### 🐍 Contribution Activity (Snake Eating Commits Game)
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harish-0987/harish-0987/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harish-0987/harish-0987/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/harish-0987/harish-0987/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img src="https://raw.githubusercontent.com/harish-0987/harish-0987/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Animation" />
 </div>
 
 ---
@@ -190,21 +178,14 @@ B.Tech Computer Science & Engineering graduate (2026) with hands-on experience b
 ### 📊 GitHub Analytics & Streak Overview
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=harish-0987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://streak-stats.demolab.com/?user=harish-0987&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="100%" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-0987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=harish-0987&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8&icon_color=38bdf8" width="48%" alt="GitHub Stats" />
+    &nbsp;
+    <img src="https://streak-stats.demolab.com/?user=harish-0987&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" width="48%" alt="GitHub Streak" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harish-0987&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" width="98%" alt="Top Languages" />
+  </p>
 </div>
 
 ---
@@ -239,11 +220,11 @@ B.Tech Computer Science & Engineering graduate (2026) with hands-on experience b
   I am actively interviewing and open to full-time engineering positions and internships!</p>
 
   <a href="https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download_Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%84_Download_Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   &nbsp;
   <a href="https://harishportfolio12.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/harishpeddapally" target="_blank">
@@ -251,11 +232,11 @@ B.Tech Computer Science & Engineering graduate (2026) with hands-on experience b
   </a>
   &nbsp;
   <a href="mailto:peddapellyharish@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email_Me-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="tel:+917993871365">
-    <img src="https://img.shields.io/badge/Call-+917993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    <img src="https://img.shields.io/badge/%F0%9F%93%9E_Call-+917993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 
 </div>
