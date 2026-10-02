@@ -1,26 +1,39 @@
 <div align="center">
 
   <!-- ==================== ANIMATED HEADER WAVE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,25:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Harish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Python%20%7C%20React.js%20%7C%20Modern%20Web%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,25:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Harish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20CSE%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
 
   <!-- ==================== DYNAMIC MULTI-LINE TYPING SVG ANIMATION ==================== -->
   <a href="https://github.com/harish-0987">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=750&lines=Python+%26+Full-Stack+Web+Developer;React.js+%E2%80%A2+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+CSS3;Building+Modern+Responsive+Web+Apps+%26+Backend+APIs;25%2B+Consecutive+Days+of+Code+%E2%80%94+Daily+Discipline;Open+for+Software+Engineering+Roles+%26+Internships!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Web+Developer+%7C+React.js+%26+Python;React.js+%E2%80%A2+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+CSS3;Building+Production-Ready+Web+Apps+%26+Modular+Backends;25%2B+Consecutive+Days+of+Code+%E2%80%94+49%2B+Repositories;Ready+to+Join+Immediately+%E2%80%94+Open+for+SDE+%26+Full-Stack+Roles!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- ==================== RECRUITER FAST-TRACK BADGES & LIVE VIEWS ==================== -->
+  <!-- ==================== ⚡ RECRUITER 1-CLICK FAST ACTIONS ==================== -->
   <p align="center">
-    <a href="mailto:peddapellyharish@gmail.com">
-      <img src="https://img.shields.io/badge/Open_To_Work-Available_Immediately-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open To Work" />
+    <a href="https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/📄_View_/_Download_Resume-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
     </a>
+    &nbsp;
+    <a href="mailto:peddapellyharish@gmail.com">
+      <img src="https://img.shields.io/badge/💼_Hire_Me-Available_Immediately-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hire Me" />
+    </a>
+    &nbsp;
+    <a href="mailto:peddapellyharish@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_Email_Directly-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+
+  <p align="center">
     <a href="https://github.com/harish-0987?tab=repositories">
-      <img src="https://img.shields.io/badge/Repositories-49+-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+      <img src="https://img.shields.io/badge/📦_Repositories-49+_Projects-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
     </a>
-    <a href="mailto:peddapellyharish@gmail.com">
-      <img src="https://img.shields.io/badge/Email-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    &nbsp;
+    <a href="https://www.linkedin.com/in/">
+      <img src="https://img.shields.io/badge/🌐_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <img src="https://komarev.com/ghpvc/?username=harish-0987&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
   </p>
 
@@ -28,55 +41,60 @@
 
 ---
 
-### 👨‍💻 About Me & Value Proposition
+### ⚡ Recruiter Fast-Track Hub (10-Second Executive Summary)
+
+> [!TIP]
+> **For Hiring Managers & HR**: Here is a quick snapshot of my qualifications, availability, and immediate value add.
+
+| Metric | Candidate Details |
+| :--- | :--- |
+| 👤 **Full Name** | **Peddapelly Harish** |
+| 🎯 **Target Roles** | **Software Development Engineer (SDE)** / **Full-Stack Developer** / **Python Backend Developer** / **Frontend (React.js) Engineer** |
+| 🎓 **Education** | **B.Tech in Computer Science & Engineering (CSE)** — Vaagdevi Engineering College, Warangal (JNTUH) <br/> **Diploma in CSE** — SVS Group of Institutions (**93% State Distinction**) |
+| 💼 **Experience** | **AI Engineering Intern** @ *Swecha* \| **Full-Stack Python Intern** @ *Sak Informatics* |
+| ⏳ **Notice Period** | **Immediate Joiner (0 Days)** — Available for full-time employment & internships |
+| 📍 **Location** | **India** (Open to Remote, Hybrid, and Onsite Relocation across India & Global) |
+| 📱 **Direct Contacts** | 📧 `peddapellyharish@gmail.com` \| 📞 `+91 7993871365` |
+| 📄 **Full Resume** | [Download Official PDF Resume ↗](https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf) |
+
+---
+
+### 👨‍💻 About Me & Engineering Philosophy
 
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
 ```yaml
-Candidate: Harish Peddapelly
-Primary_Focus: Full-Stack Web Development & Python Systems
-Core_Stack: React.js | JavaScript | HTML5 | CSS3 | Python
-Current_Streak: 25+ Days of Active Daily Building
-Availability: Ready to Join Immediately (Full-Time / Internship)
-Location: India (Open to Remote & Onsite)
-Contact: peddapellyharish@gmail.com
+Candidate: Peddapelly Harish
+Profile: Full-Stack Developer & Problem Solver
+Primary_Toolkit: React.js | JavaScript (ES6+) | HTML5 | CSS3 | Python | SQL
+Daily_Consistency: 25+ Days of Consecutive Code Commits
+Total_Repositories: 49+ Public Projects Built & Maintained
 Motto: "Not here to be known, here to build."
 ```
 
-- 🚀 **Frontend Mastery**: Creating pixel-perfect, mobile-first, and highly responsive user interfaces using **React.js**, **modern CSS3**, and **semantic HTML5**.
-- 🐍 **Backend Engineering**: Designing robust object-oriented architectures, RESTful APIs, and data processing systems in **Python**.
-- 💡 **Daily Grit & Consistency**: Successfully maintaining a multi-week streak of public code commits across 49+ repositories.
-- 🎯 **Recruiter Takeaway**: Self-driven problem solver who ramps up swiftly on new codebases, understands both client-side and server-side needs, and writes clean, maintainable code.
+- 🎨 **Frontend Engineering**: Building responsive, intuitive Single Page Applications (SPAs) in **React.js**, leveraging modular components, hooks, and clean **HTML5 / CSS3** styling.
+- ⚙️ **Backend & Architecture**: Writing clean, maintainable, object-oriented code in **Python**, RESTful API endpoints, and database CRUD operations.
+- 🔥 **Discipline & Grit**: Actively demonstrating continuous daily engineering progress with 25+ consecutive days of deep-dive architectural code.
+- 🤝 **Collaboration**: Adaptable team player with hands-on internship experience across Swecha and Sak Informatics.
 
    </td>
-   <td width="40%" align="center" valign="middle">
-     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer coding animation" />
+   <td width="42%" align="center" valign="middle">
+     <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Developer working animation" />
    </td>
   </tr>
 </table>
 
 ---
 
-### ⚡ Why Hire Harish? (Recruiter Quick Cheat-Sheet)
-
-| Strength | What I Bring to Your Engineering Team |
-| :--- | :--- |
-| 🌐 **Full-Stack Fluency** | Can seamlessly connect interactive React.js frontends with modular Python REST backends without communication gaps. |
-| 🎨 **Modern UI/UX Mindset** | Strong grasp of modern CSS (Flexbox, Grid, CSS Variables, glassmorphism, responsive media queries) for intuitive user experiences. |
-| 🧱 **Clean OOP Principles** | Well-versed in encapsulation, polymorphism, Duck Typing, inheritance, and modular code design to keep codebases scalable. |
-| 🔥 **Unmatched Consistency** | 25+ consecutive days of public commits & deep-dives, demonstrating discipline, grit, and autonomous learning ability. |
-
----
-
-### 🛠️ Technical Skills & Toolbelt
+### 🛠️ Technical Competencies & Skills
 
 <div align="center">
 
-  #### 🎨 Frontend Engineering (HTML5, CSS3, React.js, JavaScript)
+  #### 🎨 Frontend Engineering (React.js, Modern CSS3, HTML5 & JavaScript)
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark" alt="Frontend Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Tech Stack" />
   </a>
 
   <br/><br/>
@@ -88,49 +106,58 @@ Motto: "Not here to be known, here to build."
 
   <br/><br/>
 
-  #### 🧰 Developer Tools, Workflow & DevOps
+  #### 🧰 Cloud, DevOps, AI & Developer Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman&theme=dark" alt="Tools and DevOps" />
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman,gcp&theme=dark" alt="Tools and DevOps" />
   </a>
 
 </div>
 
 <br/>
 
-<details>
-<summary><b>🔍 Click here for In-Depth Technical Breakdown (HTML5, CSS3, React.js & Python)</b></summary>
+<details open>
+<summary><b>🔍 In-Depth Technical Proficiency Breakdown (Click to expand / collapse)</b></summary>
 <br/>
 
-#### 1. 🌐 Modern Frontend Architecture (HTML5 & CSS3)
-- **Semantic HTML5**: Native semantic tags (`<header>`, `<main>`, `<article>`, `<section>`, `<nav>`), Accessible forms, ARIA standards, SEO structure.
-- **Modern CSS3**: Responsive Web Design (Mobile-First), CSS Flexbox & CSS Grid for complex dynamic layouts, CSS Custom Properties (Variables), Keyframe Animations, Transitions, Glassmorphism, and responsive breakpoints.
-
-#### 2. ⚛️ React.js & JavaScript (ES6+)
-- **React.js**: Functional Components, React Hooks (`useState`, `useEffect`, `useRef`, custom hooks), Component Life-Cycle, Props & State Management, Conditional Rendering, Modular Component hierarchy, Single Page Application (SPA) architectures.
-- **JavaScript (ES6+)**: Arrow functions, Destructuring, Spread/Rest operators, Promises, `async/await`, Fetch API for asynchronous REST endpoints, DOM manipulation, and Event handling.
-
-#### 3. 🐍 Python & Backend Systems
-- **Object-Oriented Programming (OOP)**: Encapsulation, Polymorphism, Duck Typing, Dynamic Method Overriding, Method Resolution Order (C3 Linearization), Dunder Methods (`__init__`, `__str__`, `__repr__`, operator overloading).
-- **Backend Concepts**: RESTful API design, JSON parsing, file I/O, modular architecture, unit testing, clean code patterns.
+| Category | Skills & Practical Competencies |
+| :--- | :--- |
+| **Frontend (React.js & JS)** | **React.js**: Functional Components, Hooks (`useState`, `useEffect`, `useRef`), Component Lifecycle, State Management, Modular Reusable UI Architecture, SPA Routing. <br/> **JavaScript (ES6+)**: Arrow functions, Destructuring, Promises, `async/await`, Fetch API, DOM Manipulation, Event Listeners. |
+| **Markup & Styling (HTML5 & CSS3)** | **Semantic HTML5**: Semantic landmarks (`<header>`, `<main>`, `<section>`, `<article>`), Forms, ARIA Accessibility (a11y), SEO optimization. <br/> **Modern CSS3**: Responsive Web Design (Mobile-First), Flexbox, CSS Grid, Custom Properties (CSS Variables), Keyframe Animations, Glassmorphism. |
+| **Backend & Python OOP** | **Python 3.x**: Object-Oriented Programming (Polymorphism, Duck Typing, Encapsulation, Method Overriding, MRO, Dunder methods), File I/O, Modular Architecture, REST APIs. |
+| **Databases & Queries** | **Relational Databases**: MySQL, PostgreSQL, SQLite, schema design, table normalization, CRUD operations. |
+| **Developer Tools & Cloud** | **Tools**: Git, GitHub, GitHub Actions (CI/CD), Linux CLI, VS Code, Postman, Google Cloud Vertex AI & Gemini APIs. |
 
 </details>
 
 ---
 
-### 🌟 Featured Projects (Full-Stack, React.js & Python)
+### 🌟 Featured Real-World Projects
 
 <div align="center">
 
-| Project | Tech Stack | Key Capabilities & Highlights | Direct Link |
+| Project & Domain | Tech Stack | Architecture & Key Deliverables | Repository Link |
 | :--- | :--- | :--- | :---: |
-| 🛍️ **TrendCloset: Modern Apparel Store** | `React.js` `JavaScript` `HTML5` `CSS3` | Modern, responsive apparel e-commerce platform with dedicated Men/Women/Kids categories, cart state management, user authentication, and admin dashboard. | [View Project ↗](https://github.com/harish-0987/TrendCloset-Modern-Apparel-Store) |
-| 🩺 **Edge Diagnostic Healthcare Engine** | `Python` `AI/ML` `Edge Computing` | Edge-enabled AI healthcare decision support system analyzing patient vitals in real-time for disease prediction and low-latency critical medical recommendations. | [View Project ↗](https://github.com/harish-0987/Edge-enabled-diagnostic-engine-for-real-time-medicial-decision-support) |
-| ✈️ **Smart Travel Itinerary Planner** | `HTML5` `CSS3` `JavaScript` `LocalStorage` | Dynamic web application enabling users to schedule destinations, organize activities, track trip budgets, and manage itineraries with a clean mobile-friendly UI. | [View Project ↗](https://github.com/harish-0987/Travel-Itinerary) |
-| ⛅ **Real-Time Weather Forecast App** | `JavaScript (Fetch API)` `HTML5` `CSS3` | Live weather forecast app consuming OpenWeather API with instant city search, temperature, humidity, wind velocity, and dynamic weather condition states. | [View Project ↗](https://github.com/harish-0987/WEATHER-PROJECT) |
-| 📌 **Pinterest Responsive Landing Clone** | `HTML5` `CSS3 Grid` `Flexbox` `UI/UX` | Pixel-perfect Pinterest-inspired landing page showcasing responsive masonry layout, dynamic search bar, hover transitions, and clean modern aesthetics. | [View Project ↗](https://github.com/harish-0987/pinterest.clone) |
-| 📸 **CameraStore Photography Marketplace** | `JavaScript` `HTML5` `CSS3` | Interactive camera & equipment marketplace featuring dynamic catalog browsing, responsive product cards, and sleek UI animations. | [View Project ↗](https://github.com/harish-0987/CameraStore-Photography-Camera-Marketplace) |
+| 🛍️ **TrendCloset: Modern Apparel E-Commerce** | `React.js` `JavaScript` `HTML5` `CSS3` | Modern, responsive apparel marketplace with dynamic Men/Women/Kids categorization, cart state management, user authentication, and admin dashboard. | [Explore Repo ↗](https://github.com/harish-0987/TrendCloset-Modern-Apparel-Store) |
+| 🩺 **Edge Diagnostic Healthcare Engine** | `Python` `AI/ML` `Edge Computing` | Edge-enabled AI decision support system analyzing patient vitals in real-time for disease prediction, low-latency warnings, and data privacy compliance. | [Explore Repo ↗](https://github.com/harish-0987/Edge-enabled-diagnostic-engine-for-real-time-medicial-decision-support) |
+| 🚨 **Automated Borewell Sensor Detection** | `IoT` `Sensors` `Automation` | Real-time sensor-based detection and automated alert system designed to prevent child and animal accidents around open borewells. | [Explore Repo ↗](https://github.com/harish-0987) |
+| ✈️ **Smart Travel Itinerary Planner** | `Full-Stack Python` `JavaScript` `HTML5/CSS3` | End-to-end trip planning web app enabling users to organize destinations, schedule activities, track budgets, and manage itineraries with a mobile-friendly UI. | [Explore Repo ↗](https://github.com/harish-0987/Travel-Itinerary) |
+| ⛅ **Live Weather Forecast Web App** | `JavaScript (Fetch API)` `HTML5` `CSS3` | Interactive weather dashboard consuming OpenWeather API with live city search, real-time temperature, humidity, wind speed, and glassmorphism styling. | [Explore Repo ↗](https://github.com/harish-0987/WEATHER-PROJECT) |
+| 📌 **Pinterest Responsive Landing Page Clone** | `HTML5` `CSS3 Grid` `Flexbox` `UI/UX` | Pixel-perfect Pinterest clone highlighting complex CSS grid masonry layout, responsive navigation bar, search input, and smooth hover micro-animations. | [Explore Repo ↗](https://github.com/harish-0987/pinterest.clone) |
+| 📸 **CameraStore Photography Marketplace** | `JavaScript` `HTML5` `CSS3` | Digital catalog for cameras and photography equipment featuring dynamic filtering, responsive product cards, and seamless UI interactions. | [Explore Repo ↗](https://github.com/harish-0987/CameraStore-Photography-Camera-Marketplace) |
+| 💳 **Multi-Payment Gateway Engine (OOP)** | `Python 3` `OOP Polymorphism` `Duck Typing` | Extensible payment processing architecture using Duck Typing and runtime method overriding to integrate PayPal, Stripe, and Crypto gateways seamlessly. | [Explore Repo ↗](https://github.com/harish-0987/DAY-25-OF-PYTHON) |
 
 </div>
+
+---
+
+### 📜 Certifications & Industry Training
+
+- ☁️ **Prompt Design in Vertex AI & Build Real-World AI Apps with Gemini & Imagen** — *Google Cloud*
+- 🏆 **Summer of AI Internship Program** — *Swecha (May 14, 2024 – June 21, 2024)*
+- 💻 **Full-Stack Development Workshop** — *Innomatics Research Labs*
+- 🐍 **Full-Stack with Python Internship** — *Sak Informatics*
+- 🛡️ **Cybersecurity & Web Design & Development** — *Skill India Digital Hub*
+- ☁️ **AWS Certified Developer Course** — *Infosys Springboard*
 
 ---
 
@@ -180,7 +207,7 @@ Motto: "Not here to be known, here to build."
 
 <div align="center">
 
-| Day / Milestone | Topic Covered | Key Architectural Takeaways | Link |
+| Day / Milestone | Core Topic | Architectural Key Takeaways | Link |
 | :---: | :--- | :--- | :---: |
 | **Day 25** | **Polymorphism & Multi-Payment Gateways** | Duck Typing, Dynamic Method Overriding, Multi-gateway case study | [Explore Repo ↗](https://github.com/harish-0987/DAY-25-OF-PYTHON) |
 | **Day 24** | **OOP Architecture & MRO** | Inheritance hierarchies, C3 Linearization, Method Resolution Order | [Explore Repo ↗](https://github.com/harish-0987/DAY-24-OF-PYTHON) |
@@ -198,23 +225,27 @@ Motto: "Not here to be known, here to build."
 
 ---
 
-### 🤝 Connect & Hire
+### 🤝 Let's Connect & Build
 
 <div align="center">
 
-  <p><b>Interested in hiring or discussing exciting software engineering opportunities?</b><br/>
-  I respond promptly to recruiter inquiries and technical discussions!</p>
+  <p><b>Looking for a dedicated, fast-learning Software Development Engineer to join your team?</b><br/>
+  I am actively interviewing and open to full-time engineering positions and internships!</p>
 
+  <a href="https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
+  </a>
+  &nbsp;
   <a href="mailto:peddapellyharish@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
-  <a href="https://github.com/harish-0987">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="tel:+917993871365">
+    <img src="https://img.shields.io/badge/Call-917993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
 </div>
