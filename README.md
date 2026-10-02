@@ -1,37 +1,37 @@
 <div align="center">
 
   <!-- ==================== ANIMATED HEADER WAVE BANNER ==================== -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,25:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Hi%20there,%20I'm%20Harish%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%7C%20React.js%20%7C%20Python%20%7C%20CSE%20Engineer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_list=0:0f172a,25:1e293b,70:2563eb,100:38bdf8&height=220&section=header&text=Harish%20Peddapelly%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=B.Tech%20CSE%20'26%20%7C%20Full%20Stack%20Web%20Developer%20%7C%20Python%20%26%20React.js&descAlignY=58&descAlign=50" width="100%" alt="Header Banner"/>
 
   <!-- ==================== DYNAMIC MULTI-LINE TYPING SVG ANIMATION ==================== -->
   <a href="https://github.com/harish-0987">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full-Stack+Web+Developer+%7C+React.js+%26+Python;React.js+%E2%80%A2+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+CSS3;Building+Production-Ready+Web+Apps+%26+Modular+Backends;25%2B+Consecutive+Days+of+Code+%E2%80%94+49%2B+Repositories;Ready+to+Join+Immediately+%E2%80%94+Open+for+SDE+%26+Full-Stack+Roles!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&multiline=false&width=780&lines=Full+Stack+Web+Developer+%7C+Python%2C+Flask+%26+React.js;Frontend+Expertise%3A+ReactJS+%E2%80%A2+JavaScript+(ES6%2B)+%E2%80%A2+HTML5+%E2%80%A2+CSS3;Backend+%26+APIs%3A+Python+OOP+%E2%80%A2+Flask+RESTful+APIs+%E2%80%A2+SQL+%E2%80%A2+ML;B.Tech+CSE+Graduate+(2026)+%E2%80%A2+Immediate+Joiner;Open+for+Software+Engineering+(SDE)+%26+Full-Stack+Roles!" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- ==================== ⚡ RECRUITER 1-CLICK FAST ACTIONS ==================== -->
+  <!-- ==================== ⚡ RECRUITER 1-CLICK ACTIONS ==================== -->
   <p align="center">
     <a href="https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf" target="_blank">
       <img src="https://img.shields.io/badge/📄_View_/_Download_Resume-PDF-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume" />
     </a>
     &nbsp;
-    <a href="mailto:peddapellyharish@gmail.com">
-      <img src="https://img.shields.io/badge/💼_Hire_Me-Available_Immediately-brightgreen?style=for-the-badge&logo=briefcase&logoColor=white" alt="Hire Me" />
+    <a href="https://harishportfolio12.netlify.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Portfolio" />
     </a>
     &nbsp;
-    <a href="mailto:peddapellyharish@gmail.com">
-      <img src="https://img.shields.io/badge/✉️_Email_Directly-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://linkedin.com/in/harishpeddapally" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-harishpeddapally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
 
   <p align="center">
-    <a href="https://github.com/harish-0987?tab=repositories">
-      <img src="https://img.shields.io/badge/📦_Repositories-49+_Projects-blue?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <a href="mailto:peddapellyharish@gmail.com">
+      <img src="https://img.shields.io/badge/✉️_Email-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
-    <a href="https://www.linkedin.com/in/">
-      <img src="https://img.shields.io/badge/🌐_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <a href="tel:+917993871365">
+      <img src="https://img.shields.io/badge/📞_Call_/_WhatsApp-+91_7993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
     </a>
     &nbsp;
     <img src="https://komarev.com/ghpvc/?username=harish-0987&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views" />
@@ -44,40 +44,39 @@
 ### ⚡ Recruiter Fast-Track Hub (10-Second Executive Summary)
 
 > [!TIP]
-> **For Hiring Managers & HR**: Here is a quick snapshot of my qualifications, availability, and immediate value add.
+> **For Technical Recruiters & Engineering Managers**: High-level candidate summary directly verified against official credentials.
 
-| Metric | Candidate Details |
+| Parameter | Candidate Profile Details |
 | :--- | :--- |
-| 👤 **Full Name** | **Peddapelly Harish** |
-| 🎯 **Target Roles** | **Software Development Engineer (SDE)** / **Full-Stack Developer** / **Python Backend Developer** / **Frontend (React.js) Engineer** |
-| 🎓 **Education** | **B.Tech in Computer Science & Engineering (CSE)** — Vaagdevi Engineering College, Warangal (JNTUH) <br/> **Diploma in CSE** — SVS Group of Institutions (**93% State Distinction**) |
-| 💼 **Experience** | **AI Engineering Intern** @ *Swecha* \| **Full-Stack Python Intern** @ *Sak Informatics* |
+| 👤 **Full Name** | **Harish Peddapelly** |
+| 🎓 **Degree & Grad Year**| **B.Tech, Computer Science & Engineering (2026)** — Vaagdevi Engineering College, Warangal (JNTUH) <br/> **CGPA: 7.9 / 10** |
+| 📜 **Diploma & Schooling**| **Diploma in CSE (2023)** — SVS Group of Institutions (**CGPA: 9.3 / 10 — State Distinction**) <br/> **SSC (2020)** — Vishwa Bharathi High School (**CGPA: 10.0 / 10**) |
+| 🎯 **Target Positions** | **Software Development Engineer (SDE)** / **Full-Stack Developer** / **Python Backend Developer** / **React.js Frontend Engineer** |
 | ⏳ **Notice Period** | **Immediate Joiner (0 Days)** — Available for full-time employment & internships |
-| 📍 **Location** | **India** (Open to Remote, Hybrid, and Onsite Relocation across India & Global) |
-| 📱 **Direct Contacts** | 📧 `peddapellyharish@gmail.com` \| 📞 `+91 7993871365` |
-| 📄 **Full Resume** | [Download Official PDF Resume ↗](https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf) |
+| 📍 **Location** | **Hyderabad, India** (Open to Remote, Hybrid, or Relocation across India & Globally) |
+| 📄 **Official Resume** | [👉 Open & Download PDF Resume](https://github.com/harish-0987/harish-0987/blob/main/Harish_Peddapelly_Resume.pdf) |
+| 🌐 **Live Portfolio** | [👉 harishportfolio12.netlify.app](https://harishportfolio12.netlify.app) |
 
 ---
 
-### 👨‍💻 About Me & Engineering Philosophy
+### 👨‍💻 Professional Summary & Value Proposition
 
 <table>
   <tr>
     <td width="58%" valign="top">
 
 ```yaml
-Candidate: Peddapelly Harish
-Profile: Full-Stack Developer & Problem Solver
-Primary_Toolkit: React.js | JavaScript (ES6+) | HTML5 | CSS3 | Python | SQL
-Daily_Consistency: 25+ Days of Consecutive Code Commits
-Total_Repositories: 49+ Public Projects Built & Maintained
-Motto: "Not here to be known, here to build."
+Candidate: Harish Peddapelly
+Role: Full-Stack Web Developer & SDE Candidate
+Education: B.Tech Computer Science & Engineering (2026)
+Core_Languages: Python (Core, OOP) | JavaScript (ES6+) | SQL | HTML5 | CSS3
+Frameworks: React.js | Flask RESTful APIs | Scikit-learn
+Databases: SQL | MySQL
+Cloud_DevOps: AWS Cloud Computing | Netlify | Git | GitHub | n8n
+Location: Hyderabad, India
 ```
 
-- 🎨 **Frontend Engineering**: Building responsive, intuitive Single Page Applications (SPAs) in **React.js**, leveraging modular components, hooks, and clean **HTML5 / CSS3** styling.
-- ⚙️ **Backend & Architecture**: Writing clean, maintainable, object-oriented code in **Python**, RESTful API endpoints, and database CRUD operations.
-- 🔥 **Discipline & Grit**: Actively demonstrating continuous daily engineering progress with 25+ consecutive days of deep-dive architectural code.
-- 🤝 **Collaboration**: Adaptable team player with hands-on internship experience across Swecha and Sak Informatics.
+B.Tech Computer Science & Engineering graduate (2026) with hands-on experience building full-stack web applications using **Python, Flask, JavaScript, HTML5, and CSS3**, focused on **RESTful API design and deployment**. Proficient in **SQL, Git, and OOP**; with practical exposure to **Machine Learning, Generative AI, and n8n automation**.
 
    </td>
    <td width="42%" align="center" valign="middle">
@@ -88,27 +87,27 @@ Motto: "Not here to be known, here to build."
 
 ---
 
-### 🛠️ Technical Competencies & Skills
+### 🛠️ Technical Skills
 
 <div align="center">
 
-  #### 🎨 Frontend Engineering (React.js, Modern CSS3, HTML5 & JavaScript)
+  #### 🎨 Frontend Engineering (React.js, JavaScript, HTML5, CSS3)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap&theme=dark" alt="Frontend Tech Stack" />
   </a>
 
   <br/><br/>
 
-  #### ⚙️ Backend, Languages & Databases
+  #### ⚙️ Backend, REST APIs, Databases & Machine Learning
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,mysql,postgres,sqlite&theme=dark" alt="Backend and Database Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,flask,mysql,postgres,sqlite,sklearn&theme=dark" alt="Backend and Database Tech Stack" />
   </a>
 
   <br/><br/>
 
-  #### 🧰 Cloud, DevOps, AI & Developer Tools
+  #### 🧰 Cloud, DevOps, Automation & Developer Tools
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,linux,vscode,postman,gcp&theme=dark" alt="Tools and DevOps" />
+    <img src="https://skillicons.dev/icons?i=aws,netlify,git,github,githubactions,linux,vscode,postman&theme=dark" alt="Tools and DevOps" />
   </a>
 
 </div>
@@ -116,48 +115,55 @@ Motto: "Not here to be known, here to build."
 <br/>
 
 <details open>
-<summary><b>🔍 In-Depth Technical Proficiency Breakdown (Click to expand / collapse)</b></summary>
+<summary><b>🔍 Verified Technical Competencies Breakdown</b></summary>
 <br/>
 
-| Category | Skills & Practical Competencies |
-| :--- | :--- |
-| **Frontend (React.js & JS)** | **React.js**: Functional Components, Hooks (`useState`, `useEffect`, `useRef`), Component Lifecycle, State Management, Modular Reusable UI Architecture, SPA Routing. <br/> **JavaScript (ES6+)**: Arrow functions, Destructuring, Promises, `async/await`, Fetch API, DOM Manipulation, Event Listeners. |
-| **Markup & Styling (HTML5 & CSS3)** | **Semantic HTML5**: Semantic landmarks (`<header>`, `<main>`, `<section>`, `<article>`), Forms, ARIA Accessibility (a11y), SEO optimization. <br/> **Modern CSS3**: Responsive Web Design (Mobile-First), Flexbox, CSS Grid, Custom Properties (CSS Variables), Keyframe Animations, Glassmorphism. |
-| **Backend & Python OOP** | **Python 3.x**: Object-Oriented Programming (Polymorphism, Duck Typing, Encapsulation, Method Overriding, MRO, Dunder methods), File I/O, Modular Architecture, REST APIs. |
-| **Databases & Queries** | **Relational Databases**: MySQL, PostgreSQL, SQLite, schema design, table normalization, CRUD operations. |
-| **Developer Tools & Cloud** | **Tools**: Git, GitHub, GitHub Actions (CI/CD), Linux CLI, VS Code, Postman, Google Cloud Vertex AI & Gemini APIs. |
+- **Programming Languages**: Python (Core Python, OOP Architecture, Polymorphism, Duck Typing), JavaScript (ES6+), SQL, HTML5, CSS3.
+- **Frameworks & Libraries**: Flask, RESTful API Development, ReactJS, Scikit-learn.
+- **Databases**: SQL, MySQL, Database normalization, CRUD operations, indexing.
+- **Tools & Version Control**: Git, GitHub, n8n automation, VS Code, Postman.
+- **Cloud & DevOps**: AWS Cloud Computing, Cloud Deployment, Netlify hosting, CI/CD with GitHub Actions.
+- **AI / Machine Learning**: Machine Learning, Generative AI, Prompt Engineering with LLMs.
 
 </details>
 
 ---
 
-### 🌟 Featured Real-World Projects
+### 🌟 Featured Projects (From Official Resume & Repositories)
 
 <div align="center">
 
-| Project & Domain | Tech Stack | Architecture & Key Deliverables | Repository Link |
+| Project | Tech Stack | Architectural Highlights & Deliverables | Direct Repo |
 | :--- | :--- | :--- | :---: |
-| 🛍️ **TrendCloset: Modern Apparel E-Commerce** | `React.js` `JavaScript` `HTML5` `CSS3` | Modern, responsive apparel marketplace with dynamic Men/Women/Kids categorization, cart state management, user authentication, and admin dashboard. | [Explore Repo ↗](https://github.com/harish-0987/TrendCloset-Modern-Apparel-Store) |
-| 🩺 **Edge Diagnostic Healthcare Engine** | `Python` `AI/ML` `Edge Computing` | Edge-enabled AI decision support system analyzing patient vitals in real-time for disease prediction, low-latency warnings, and data privacy compliance. | [Explore Repo ↗](https://github.com/harish-0987/Edge-enabled-diagnostic-engine-for-real-time-medicial-decision-support) |
-| 🚨 **Automated Borewell Sensor Detection** | `IoT` `Sensors` `Automation` | Real-time sensor-based detection and automated alert system designed to prevent child and animal accidents around open borewells. | [Explore Repo ↗](https://github.com/harish-0987) |
-| ✈️ **Smart Travel Itinerary Planner** | `Full-Stack Python` `JavaScript` `HTML5/CSS3` | End-to-end trip planning web app enabling users to organize destinations, schedule activities, track budgets, and manage itineraries with a mobile-friendly UI. | [Explore Repo ↗](https://github.com/harish-0987/Travel-Itinerary) |
-| ⛅ **Live Weather Forecast Web App** | `JavaScript (Fetch API)` `HTML5` `CSS3` | Interactive weather dashboard consuming OpenWeather API with live city search, real-time temperature, humidity, wind speed, and glassmorphism styling. | [Explore Repo ↗](https://github.com/harish-0987/WEATHER-PROJECT) |
-| 📌 **Pinterest Responsive Landing Page Clone** | `HTML5` `CSS3 Grid` `Flexbox` `UI/UX` | Pixel-perfect Pinterest clone highlighting complex CSS grid masonry layout, responsive navigation bar, search input, and smooth hover micro-animations. | [Explore Repo ↗](https://github.com/harish-0987/pinterest.clone) |
-| 📸 **CameraStore Photography Marketplace** | `JavaScript` `HTML5` `CSS3` | Digital catalog for cameras and photography equipment featuring dynamic filtering, responsive product cards, and seamless UI interactions. | [Explore Repo ↗](https://github.com/harish-0987/CameraStore-Photography-Camera-Marketplace) |
-| 💳 **Multi-Payment Gateway Engine (OOP)** | `Python 3` `OOP Polymorphism` `Duck Typing` | Extensible payment processing architecture using Duck Typing and runtime method overriding to integrate PayPal, Stripe, and Crypto gateways seamlessly. | [Explore Repo ↗](https://github.com/harish-0987/DAY-25-OF-PYTHON) |
+| 🩺 **Edge-Enabled Diagnostic Engine with Homomorphic Encryption** | `Python` `Flask` `Scikit-learn` `REST API` `SQL` `Homomorphic Encryption` | • Built full-stack healthcare ML app diagnosing heart disease & hypothyroidism in real-time processing 1,000+ patient records.<br/>• Deployed Flask RESTful API backend with hyperparameter tuning, boosting accuracy by ~15%.<br/>• Integrated Homomorphic Encryption into ML pipeline ensuring HIPAA-aligned end-to-end patient data privacy. | [Explore Repo ↗](https://github.com/harish-0987/Edge-enabled-diagnostic-engine-for-real-time-medicial-decision-support) |
+| ✈️ **Travel Itinerary Planner** | `Python` `Flask` `JavaScript` `HTML5` `CSS3` `REST APIs` `JSON` | • Developed full-stack web app integrating 3 live RESTful APIs for real-time flight, weather, and hotel data with sub-2s response times.<br/>• Built real-time booking workflows handling concurrent API calls & JSON data sync.<br/>• Engineered responsive front-end in HTML5/CSS3/JS connected to Python Flask backend. | [Explore Repo ↗](https://github.com/harish-0987/Travel-Itinerary) |
+| 🛍️ **TrendCloset – Modern Apparel Store** | `ReactJS` `JavaScript` `HTML5` `CSS3` `Netlify` | • Developed modern e-commerce storefront for apparel with modular, reusable React components.<br/>• Implemented client-side shopping cart state management, product filtering, and deployed live on Netlify. | [Explore Repo ↗](https://github.com/harish-0987/TrendCloset-Modern-Apparel-Store) |
+| 📸 **CameraStore – Photography & Cinema Gear Marketplace** | `ReactJS` `JavaScript` `HTML5` `CSS3` `Netlify` | • Created interactive e-commerce gear storefront with responsive product catalog, dynamic filtering, and client-side state management; deployed live on Netlify. | [Explore Repo ↗](https://github.com/harish-0987/CameraStore-Photography-Camera-Marketplace) |
+| ⛅ **Real-Time Dynamic Weather App** | `JavaScript (Async/Await)` `HTML5` `CSS3` `REST API` | • Asynchronous weather forecast web app consuming OpenWeather API with live city search, real-time meteorological metrics, and sleek glassmorphism CSS. | [Explore Repo ↗](https://github.com/harish-0987/WEATHER-PROJECT) |
+| 📌 **Pinterest Responsive Landing Page Clone** | `HTML5` `CSS3 Grid` `Flexbox` `UI/UX` | • Pixel-perfect responsive masonry landing page showcasing advanced CSS3 Grid, Flexbox layouts, search input, and smooth micro-animations. | [Explore Repo ↗](https://github.com/harish-0987/pinterest.clone) |
+| 💳 **Multi-Payment Gateway Engine (OOP)** | `Python 3` `OOP Polymorphism` `Duck Typing` | • Extensible payment gateway architecture (PayPal, Stripe, Crypto) built with Duck Typing, method overriding, and clean design patterns. | [Explore Repo ↗](https://github.com/harish-0987/DAY-25-OF-PYTHON) |
 
 </div>
 
 ---
 
-### 📜 Certifications & Industry Training
+### 📜 Verified Certifications & Professional Training
 
-- ☁️ **Prompt Design in Vertex AI & Build Real-World AI Apps with Gemini & Imagen** — *Google Cloud*
-- 🏆 **Summer of AI Internship Program** — *Swecha (May 14, 2024 – June 21, 2024)*
-- 💻 **Full-Stack Development Workshop** — *Innomatics Research Labs*
+- ☁️ **AWS Certified Cloud Practitioner** — *Amazon Web Services (AWS)*
+- 📊 **Data Analytics Job Simulation** — *Deloitte (Forage)*
+- 🤖 **Introduction to Artificial Intelligence** — *Cisco Networking Academy*
+- 💡 **Prompt Engineering with ChatGPT** — *SimpliLearn*
+- ☁️ **Prompt Design in Vertex AI & Gemini Apps** — *Google Cloud*
 - 🐍 **Full-Stack with Python Internship** — *Sak Informatics*
-- 🛡️ **Cybersecurity & Web Design & Development** — *Skill India Digital Hub*
-- ☁️ **AWS Certified Developer Course** — *Infosys Springboard*
+- 🏆 **Summer of AI Internship** — *Swecha*
+
+---
+
+### 🏆 Achievements & Leadership
+
+- 💡 **Hackathon (College Level, Generative AI)**: Applied prompt engineering to a time-bound problem-solving challenge.
+- 🛠️ **Technical Workshops**: Hands-on practical training in Python problem-solving, debugging, and team-based coding.
+- 🏅 **Leadership & Teamwork**: Coordinated a 7-member team and won a school-level Kabaddi competition (teamwork, communication, execution under pressure).
 
 ---
 
@@ -203,7 +209,7 @@ Motto: "Not here to be known, here to build."
 
 ---
 
-### 🚀 Daily Discipline: 100 Days of Python Mastery
+### 🚀 100 Days of Code: Daily Engineering Discipline
 
 <div align="center">
 
@@ -236,16 +242,20 @@ Motto: "Not here to be known, here to build."
     <img src="https://img.shields.io/badge/Download_Resume-007ACC?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume" />
   </a>
   &nbsp;
+  <a href="https://harishportfolio12.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/harishpeddapally" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-harishpeddapally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="mailto:peddapellyharish@gmail.com">
     <img src="https://img.shields.io/badge/Email_Me-peddapellyharish@gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="tel:+917993871365">
-    <img src="https://img.shields.io/badge/Call-917993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Call-+917993871365-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
   </a>
 
 </div>
